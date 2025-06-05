@@ -63,6 +63,7 @@ Adapun business board dibuat beberapa segmen yaitu:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pada segment ini dibagi menjadi 3 yaitu berdasarkan Performance rating, tingkat pekerjaan dan keterlibatan bekerja. Pada             Performance didapatkan bahwa performance didominasi pada tingkat 3 dan tingkat 4 menandakan bahwa karyawan di perusahaan Jaya Jaya Majuse memiliki performance      yang baik. Pada Job level, didominasi pada tingkat 1 dan tingkat 2 menandakan tingkatan pekerjaan di Jaya Jaya Maju tergolong mudah. Pada Grafik terakhir yaitu    job involment bahwa tingkat keterlibatan kerja karyawan pada tingkat 3.
    
 4. Karyawan Overtime (Lembur) yang bekerja
+
    ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Attrition%20by%20Overtime.png)
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan grafik diatas, dapat disimpulkan bahwa kategori usia didominasi oeh kategori Early Career (18-25) dan Mid Career (36-     45). Namun tingkat attrition karyawan paling tinggi pada Early Career (18-25)
