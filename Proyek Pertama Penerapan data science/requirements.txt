@@ -1,0 +1,8 @@
+joblib==1.5.1
+matplotlib==3.10.0
+numpy==2.0.2
+pandas==2.2.2
+regex==2024.11.6
+scikit-learn==1.6.1
+seaborn==0.13.2
+sklearn-pandas==2.2.0
