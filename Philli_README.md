@@ -32,78 +32,64 @@ Username dan Password:
 ## Business Dashboard
 
 Adapun business board dibuat beberapa segmen yaitu:
-1. Perbandingan Kepuasan Karyawan Di Perusahaan
+1. Aspek Demografis
 
-   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Berdasarkan%20Tingkat%20Kepuasan%20Karyawan%20pada%20Perusahaan.png)
+   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Aspek%20Demografis.png)
 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan grafik Karyawan yang lebih muda, belum menikah, dan berasal dari bidang HR atau Marketing cenderung memiliki tingkat pengunduran diri (attrition) yang lebih tinggi. Sementara itu, tingkat pendidikan dan jenis kelamin tidak terlalu berpengaruh secara signifikan terhadap keputusan resign.
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dalam segmen kepuasan karyawan, terdapat tiga faktor utama yaitu lingkungan, pekerjaan, dan hubungan antar karyawan. Kepuasan terhadap lingkungan (environment satisfaction) lebih banyak berada pada tingkat 4, sementara kepuasan terhadap pekerjaan (job satisfaction) berada pada tingkat 3, dan kepuasan terhadap hubungan antar karyawan (relationship satisfaction) berada pada tingkat 3 hingga tingkat 4. Namun, pada setiap grafik yang ditampilkan, sekitar 19-20% karyawan memberikan penilaian pada tingkat 1, dan sekitar 18-20% berada pada tingkat 2. Jika digabungkan, hal ini menunjukkan bahwa sekitar sepertiga karyawan merasa tidak puas dengan perusahaan terutama dalam aspek lingkungan, pekerjaan, dan hubungan antar karyawan.
-
-2. Karyawan Bertahan dan Keluar Berdasarkan Lembur
+2. Aspek Pekerjaan
    
-   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Attrition%20by%20Overtime.png)
+   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Aspek%20Pekerjaan.png)
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan grafik diatas, dapat disimpulkan bahwa karyawan yang bekerja lembur cenderung memiliki tingkat attrition yang lebih tinggi. Ini menunjukkan bahwa lembur berpotensi menjadi faktor risiko terhadap keputusan karyawan untuk keluar dari perusahaan, kemungkinan disebabkan oleh beban kerja berlebih, kelelahan, atau kurangnya work-life balance.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan grafik diatas, dapat disimpulkan bahwa Karyawan yang bekerja di Sales, memiliki level pekerjaan rendah, lembur, dan melakukan perjalanan dinas sesekali (Travel_Rarely) cenderung lebih tinggi risiko resign. Posisi jabatan tinggi dan tidak lembur cenderung lebih stabil.
 
-3. Kondisi Karyawan Bertahan dan Keluar Berdasarkan Unit Perusahaan dan Tanggung Jawab Karyawan 
+3. Aspek Kepuasan dan Keterlibatan
+   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Aspek%20Kepuasan%20dan%20Keterlibatan.png)
 
-   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Berdasarkan%20Komposisi%20karyawan%20dan%20posisi.png)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan grafik diatas, dapat disimpulkan bahwa attrition cenderung lebih tinggi pada karyawan yang memiliki tingkat kepuasan rendah (level 1 atau 2) dalam hal lingkungan kerja, kepuasan kerja, hubungan di tempat kerja, keseimbangan kerja-hidup, dan keterlibatan pekerjaan. Organisasi perlu fokus meningkatkan faktor-faktor ini untuk mengurangi attrition, terutama pada level kepuasan yang rendah.
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Komposisi karyawan dan posisinya ditampilkan dalam tiga grafik, yaitu Department by Attrition, Job Role by Attrition, dan Gender by Attrition. Pada grafik Department by Attrition, jumlah karyawan terbanyak di perusahaan Jaya Jaya Maju terdapat di departemen Research, yang juga mengalami tingkat attrition tertinggi, diikuti oleh departemen Development. Sebaliknya, departemen Human Resource memiliki jumlah karyawan paling sedikit dan mengalami tingkat attrition yang paling rendah. Pada grafik Job Role by Attrition, posisi dengan tingkat attrition tertinggi adalah pada job role "Other," yang juga memiliki jumlah karyawan terbanyak. Sedangkan pada grafik Gender by Attrition, mayoritas karyawan laki-laki bekerja di Jaya Jaya Maju dan mereka juga menjadi kelompok dengan tingkat attrition paling tinggi.
-
-4. Distribusi Rating pada Level dan Keterlibatan Pekerjaan serta Penilaian Kerja
+4. Aspek Kompensasi
    
-   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Berdasarkan%20Tingkatan%20Performansi%20dan%20Pekerja%20Pada%20Karyawan.png)
+   ![Dashboard](https://raw.githubusercontent.com/inibukanphilli/Proyek_Dicoding/refs/heads/main/Aspek%20Kompensasi.png)
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Segmen ini dibagi menjadi tiga bagian, yaitu berdasarkan Performance Rating, Tingkat Pekerjaan, dan Keterlibatan Kerja. Pada aspek Performance Rating, mayoritas karyawan berada pada tingkat 3 dan 4, yang menunjukkan bahwa karyawan di perusahaan Jaya Jaya Maju memiliki kinerja yang baik. Untuk Job Level, didominasi oleh tingkat 1 dan 2, yang mengindikasikan bahwa tingkat kompleksitas pekerjaan di Jaya Jaya Maju tergolong rendah atau mudah. Sedangkan pada grafik terakhir mengenai Job Involvement, tingkat keterlibatan kerja karyawan sebagian besar berada pada tingkat 3.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan grafik diatas, dapat disimpulkan bahwa tingkat attrition tersebar di berbagai level pendapatan dan tarif, tetapi secara umum lebih banyak karyawan yang bertahan (non-attrition) di semua kategori finansial. Tidak ada pola attrition yang sangat mencolok berdasarkan tingkat pendapatan atau tarif, sehingga faktor lain mungkin berperan lebih besar dalam pengunduran diri.
 
 ## Conclusion
+1. Faktor Demografis
+   - Karyawan yang lebih muda, belum menikah, dan bekerja di bidang HR atau Marketing memiliki kecenderungan lebih tinggi untuk resign.
 
-- Proyek berhasil memprediksi karyawan yang akan mengundurkan diri dari perusahaan Jaya Jaya Maju dengan metode machine learning.
+   - Tingkat pendidikan dan jenis kelamin tidak terlalu signifikan dalam memengaruhi keputusan resign.
 
-- Sistem prediksi dibuat berdasarkan data karyawan yang tersedia.
+2. Faktor Pekerjaan
+   - Karyawan di posisi Sales, level pekerjaan rendah, sering lembur, dan melakukan perjalanan dinas sesekali (Travel_Rarely) lebih berisiko resign.
 
-- Hasil dari machine learning dan proses seleksi fitur menunjukkan bahwa seluruh fitur di dataset berperan penting dalam klasifikasi.
+   - Karyawan dengan jabatan tinggi dan jarang lembur cenderung lebih stabil.
 
-- Penurunan akurasi prediksi terjadi jika beberapa fitur dihilangkan, menegaskan kontribusi setiap fitur.
+3. Faktor Kepuasan
+   - Kepuasan rendah (level 1-2) dalam lingkungan kerja, kepuasan kerja, hubungan kerja, work-life balance, dan keterlibatan pekerjaan berkontribusi besar terhadap attrition.
 
-- Melalui seleksi fitur, diperoleh 10 faktor utama yang paling berpengaruh terhadap attrition:
+   - Perusahaan perlu meningkatkan aspek-aspek ini untuk mengurangi turnover karyawan.
 
-   - Gender
-   - Environment Satisfaction (Kepuasan Lingkungan Kerja)
-   - Job Involvement (Keterlibatan Kerja)
-   - Job Level (Tingkat Jabatan)
-   - Job Satisfaction (Kepuasan Kerja)
-   - Overtime (Lembur)
-   - Performance Rating (Penilaian Kinerja)
-   - Relationship Satisfaction (Kepuasan Hubungan Kerja)
-   - Stock Option Level
-   - Work-Life Balance (Keseimbangan Kerja dan Kehidupan)
+4. Faktor Kompensasi
+   - Tidak ada korelasi kuat antara pendapatan/tarif dengan attrition.
 
-- Implementasi dashboard interaktif berbasis Docker Metabase mendukung pemantauan kondisi karyawan secara real-time.
-
-- Dashboard memudahkan identifikasi tingkat attrition dan berbagai faktor penyebabnya.
-
-- Sistem dashboard membantu manajemen mengambil keputusan yang lebih cepat dan tepat untuk mengurangi tingkat attrition.
-
-- Diharapkan dengan sistem ini, manajemen bisa bersikap lebih proaktif dalam mengelola sumber daya manusia.
-
-- Akhirnya, proyek ini diharapkan meningkatkan stabilitas dan kinerja keseluruhan perusahaan.
+   - Faktor non-finansial (seperti kepuasan kerja dan lingkungan) lebih berpengaruh dibanding gaji.
 
 ### Rekomendasi Action Items (Optional)
 
 Berikut adalah beberapa rekomendasi tindakan yang dapat dilakukan oleh perusahaan Jaya Jaya Maju untuk mengatasi permasalahan tersebut:
 
-- Membangun dan menerapkan sistem peringatan dini( Early Warning)
-  
-  Membangun sistem dengan pendekatan supervised machine learning klasifikasi untuk memprediksi karyawan apakah karyawan akan melakukan pengunduran diri atau tidak    berdasarkan data-data yang tersedia
+- Tingkatkan kepuasan kerja dengan program pengembangan karir, pelatihan, dan feedback rutin.
   
 - Membangun Dashboard yang interaktif ke sistem HR
-
-  Merancang dan mengimplementasikan dashboard interaktif yang dapat memantau kinerja dan kondisi perusahaan secara real-time, kemudian mengintegrasikannya ke dalam sistem karyawan di divisi HRD.
   
-- Melakukan survei rutin dan mengevaluasi kembali kebijakan perusahaan
+- Perbaiki work-life balance dengan mengurangi lembur dan meningkatkan fleksibilitas kerja.
 
-  Melaksanakan survei berkala kepada karyawan mengenai kepuasan kerja, kompensasi, dan aspek lainnya, kemudian meninjau ulang kebijakan yang ada serta menyusun strategi baru untuk menangani masalah yang ditemukan.
+- Fokus pada retensi karyawan muda & lajang melalui program mentoring dan engagement.
+
+- Evaluasi beban kerja di departemen Sales & HR untuk mengurangi tekanan kerja.
+
+- Monitor faktor kepuasan secara berkala menggunakan dashboard HR untuk deteksi dini risiko resign.
   
 
